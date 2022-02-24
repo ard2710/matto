@@ -1,2 +1,2 @@
 # matto
-https://github.com/ard2710/matto.git
+https://ard2710.github.io/matto.github.io/
